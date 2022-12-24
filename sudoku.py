@@ -10,7 +10,7 @@ S = TypeVar('S', bound='Sudoku')
 class Sudoku:
     """
     Description:
-        Class that stores the position of a non-empty square and performs actions with it
+        Creates empty grid and performs Sudoku operations on it like: assigning number, deleting number, checking the validity of a grid, auto complete etc.
     """
 
     _object_registry = []
