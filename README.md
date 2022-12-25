@@ -21,3 +21,5 @@ link:https://web.archive.org/web/20070317015632/http://www.cse.ohio-state.edu/~g
 1. Better architecture of the project. Separate classes for positioning and improvement of Sudoku class (especially static and class methods).
 2. Code optimization and standardization.
 3. Generation of sudoku grits -> potentially connection to API that provides completely new grid every time.
+4. Inconsistencies with private methods.
+5. Hard-coded attributes.
